@@ -1,0 +1,10 @@
+24379      3          doan ngoc toan       0986204681           tan trao, kt, hp    
+3
+29783      hoa cuc              1000000.00
+29770      hoa hong             800000.00 
+29770      hoa hong             800000.00 
+25296      2          ngo hoai             12312312             bac giang province  
+3
+29748      hoa huong duong      900000.00 
+29770      hoa hong             800000.00 
+29783      hoa cuc              1000000.00
